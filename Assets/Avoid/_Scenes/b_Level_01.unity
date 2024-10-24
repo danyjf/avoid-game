@@ -1555,6 +1555,26 @@ Prefab:
       propertyPath: redRockAdd
       value: 5
       objectReference: {fileID: 0}
+    - target: {fileID: 1462857424446370, guid: 70c4cb6ec239c044c91efb29bfd4ad48, type: 2}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1511303436859988, guid: 70c4cb6ec239c044c91efb29bfd4ad48, type: 2}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1396060130822490, guid: 70c4cb6ec239c044c91efb29bfd4ad48, type: 2}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1938753443305848, guid: 70c4cb6ec239c044c91efb29bfd4ad48, type: 2}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1546042885298520, guid: 70c4cb6ec239c044c91efb29bfd4ad48, type: 2}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 70c4cb6ec239c044c91efb29bfd4ad48, type: 2}
   m_IsPrefabParent: 0
